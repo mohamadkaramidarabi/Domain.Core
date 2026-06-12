@@ -1,0 +1,5 @@
+using Core;
+
+namespace Core.Test.TestDoubles;
+
+public sealed class TestEvent : IEvent;
